@@ -1,7 +1,8 @@
 # Frontend Theory:
 
 <details>
-<summary>## JavaScript</summary>
+<summary><h2>JavaScript</h2></summary>
+
 - [Promises](./content/JavaScript/promises.md)
 </details>
 

@@ -1,8 +1,9 @@
 # Frontend Theory:
 
-## JavaScript
-
+<details>
+<summary>## JavaScript</summary>
 - [Promises](./content/JavaScript/promises.md)
+</details>
 
 ## Typescript
 
